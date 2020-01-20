@@ -14,16 +14,6 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": true
-		},
-		{
-			"Name": "UE4EditorCustomize",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0d22d9af59624886a6fccd9573fefa90"
-		},
-		{
-			"Name": "AutoSizeComments",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		}
 	]
 }
